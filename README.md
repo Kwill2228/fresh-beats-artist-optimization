@@ -34,5 +34,5 @@ This project explores music streaming optimization for artist exposure, user con
 
 ## Role
 Client Success Analyst | BI Analyst | Data Solutions Strategist  
-- Portfolio: [www.makeanimpact.com](https://www.makeanimpact.com)  
+- Portfolio: [www.makeanimpacts.com](https://www.makeanimpact.com)  
 - GitHub: [github.com/kwill2228](https://github.com/kwill2228)
