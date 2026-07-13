@@ -29,7 +29,7 @@ This project explores music streaming optimization for artist exposure, user con
 ##key insights & recommendations summary
 
 ![image](https://github.com/user-attachments/assets/fdf69624-192a-4b3e-b79e-c0a818a0f445)
-- {file:///C:/Users/keann/Downloads/K.%20Williams-%20Project%20Status%20Report.pdf}()
+
 
 
 ## Role
